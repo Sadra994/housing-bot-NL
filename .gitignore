@@ -1,0 +1,9 @@
+# Never upload these
+.env
+*.html
+
+# seen_listings.json is managed by GitHub Actions — don't ignore it
+# Python
+__pycache__/
+*.pyc
+.venv/
